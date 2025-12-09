@@ -1,0 +1,5 @@
+{
+  "name": "UniPortal",
+  "description": "A comprehensive University Student Management System featuring student dashboards, profile management, attendance tracking, fee payments, and an administrative interface.",
+  "requestFramePermissions": []
+}
